@@ -33,6 +33,7 @@ a:hover {
     color: #ddd;
 }
 
+
 .contentbody {
     padding: 4em 0 4em 0;
     max-width: 800px;
@@ -170,6 +171,12 @@ p {
     font-size: 1.1em;
     letter-spacing: 1.1px;
     line-height: 1.35em;
+}
+
+/* USER LIST */ 
+.listing {
+    list-style: none;
+    padding-left: 0;
 }
 
 
